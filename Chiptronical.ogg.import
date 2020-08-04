@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Chiptronical.ogg-53d7859b87b8c03a3e84d02c5e0cbcf3.oggstr"
+
+[deps]
+
+source_file="res://Chiptronical.ogg"
+dest_files=[ "res://.import/Chiptronical.ogg-53d7859b87b8c03a3e84d02c5e0cbcf3.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
